@@ -1,6 +1,6 @@
-from StyleGAN import StyleGAN
+from stylegan_tf.StyleGAN import StyleGAN
 import argparse
-from utils import *
+from stylegan_tf.utils import *
 
 """parsing and configuration"""
 def parse_args():

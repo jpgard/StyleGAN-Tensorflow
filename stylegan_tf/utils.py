@@ -1,7 +1,7 @@
 import numpy as np
 import os
 from glob import glob
-from ops import lerp
+from stylegan_tf.ops import lerp
 
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
